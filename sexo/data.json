@@ -1,0 +1,72 @@
+[
+  {
+    "ano_diagnostico": 2013,
+    "feminino": 14377,
+    "masculino": 17549,
+    "ignorado_branco": 3,
+    "total": 31929
+  },
+  {
+    "ano_diagnostico": 2014,
+    "feminino": 14637,
+    "masculino": 17556,
+    "ignorado_branco": 1,
+    "total": 32194
+  },
+  {
+    "ano_diagnostico": 2015,
+    "feminino": 13120,
+    "masculino": 16418,
+    "ignorado_branco": 2,
+    "total": 29540
+  },
+  {
+    "ano_diagnostico": 2016,
+    "feminino": 11522,
+    "masculino": 14428,
+    "ignorado_branco": 3,
+    "total": 25953
+  },
+  {
+    "ano_diagnostico": 2017,
+    "feminino": 12278,
+    "masculino": 15194,
+    "ignorado_branco": 0,
+    "total": 27472
+  },
+  {
+    "ano_diagnostico": 2018,
+    "feminino": 13397,
+    "masculino": 15806,
+    "ignorado_branco": 4,
+    "total": 29207
+  },
+  {
+    "ano_diagnostico": 2019,
+    "feminino": 12886,
+    "masculino": 15670,
+    "ignorado_branco": 1,
+    "total": 28557
+  },
+  {
+    "ano_diagnostico": 2020,
+    "feminino": 7894,
+    "masculino": 10413,
+    "ignorado_branco": 0,
+    "total": 18307
+  },
+  {
+    "ano_diagnostico": 2021,
+    "feminino": 8011,
+    "masculino": 10694,
+    "ignorado_branco": 0,
+    "total": 18705
+  },
+  {
+    "ano_diagnostico": 2022,
+    "feminino": 8408,
+    "masculino": 11042,
+    "ignorado_branco": 0,
+    "total": 19450
+  }
+]

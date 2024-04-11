@@ -1,0 +1,92 @@
+[
+  {
+    "ano_diagnostico": 2013,
+    "branca": 8323,
+    "preta": 3891,
+    "amarela": 286,
+    "parda": 17885,
+    "indigena": 129,
+    "ign_branco": 1415
+  },
+  {
+    "ano_diagnostico": 2014,
+    "branca": 8283,
+    "preta": 3961,
+    "amarela": 244,
+    "parda": 18409,
+    "indigena": 127,
+    "ign_branco": 1170
+  },
+  {
+    "ano_diagnostico": 2015,
+    "branca": 7421,
+    "preta": 3535,
+    "amarela": 227,
+    "parda": 17130,
+    "indigena": 129,
+    "ign_branco": 1098
+  },
+  {
+    "ano_diagnostico": 2016,
+    "branca": 6391,
+    "preta": 3122,
+    "amarela": 239,
+    "parda": 15192,
+    "indigena": 98,
+    "ign_branco": 911
+  },
+  {
+    "ano_diagnostico": 2017,
+    "branca": 6669,
+    "preta": 3412,
+    "amarela": 286,
+    "parda": 16074,
+    "indigena": 165,
+    "ign_branco": 866
+  },
+  {
+    "ano_diagnostico": 2018,
+    "branca": 6857,
+    "preta": 3526,
+    "amarela": 305,
+    "parda": 17416,
+    "indigena": 131,
+    "ign_branco": 972
+  },
+  {
+    "ano_diagnostico": 2019,
+    "branca": 6926,
+    "preta": 3490,
+    "amarela": 338,
+    "parda": 16811,
+    "indigena": 159,
+    "ign_branco": 833
+  },
+  {
+    "ano_diagnostico": 2020,
+    "branca": 4461,
+    "preta": 2111,
+    "amarela": 233,
+    "parda": 10811,
+    "indigena": 71,
+    "ign_branco": 620
+  },
+  {
+    "ano_diagnostico": 2021,
+    "branca": 4525,
+    "preta": 2228,
+    "amarela": 189,
+    "parda": 10982,
+    "indigena": 86,
+    "ign_branco": 695
+  },
+  {
+    "ano_diagnostico": 2022,
+    "branca": 4327,
+    "preta": 2452,
+    "amarela": 216,
+    "parda": 11598,
+    "indigena": 111,
+    "ign_branco": 746
+  }
+]

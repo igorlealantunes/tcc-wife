@@ -1,0 +1,302 @@
+[
+  {
+    "year": 2013,
+    "details": [
+      {
+        "region": "norte",
+        "population": 5087300,
+        "diagnoses": 725
+      },
+      {
+        "region": "nordeste",
+        "population": 13958063,
+        "diagnoses": 1158
+      },
+      {
+        "region": "sudeste",
+        "population": 17729029,
+        "diagnoses": 216
+      },
+      {
+        "region": "sul",
+        "population": 5948040,
+        "diagnoses": 17
+      },
+      {
+        "region": "centro_oeste",
+        "population": 3543228,
+        "diagnoses": 346
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "details": [
+      {
+        "region": "norte",
+        "population": 5053650,
+        "diagnoses": 682
+      },
+      {
+        "region": "nordeste",
+        "population": 13710602,
+        "diagnoses": 1172
+      },
+      {
+        "region": "sudeste",
+        "population": 17547236,
+        "diagnoses": 193
+      },
+      {
+        "region": "sul",
+        "population": 5882037,
+        "diagnoses": 20
+      },
+      {
+        "region": "centro_oeste",
+        "population": 3538185,
+        "diagnoses": 388
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "details": [
+      {
+        "region": "norte",
+        "population": 5026247,
+        "diagnoses": 542
+      },
+      {
+        "region": "nordeste",
+        "population": 13504633,
+        "diagnoses": 1148
+      },
+      {
+        "region": "sudeste",
+        "population": 17428969,
+        "diagnoses": 161
+      },
+      {
+        "region": "sul",
+        "population": 5838972,
+        "diagnoses": 11
+      },
+      {
+        "region": "centro_oeste",
+        "population": 3543477,
+        "diagnoses": 331
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "details": [
+      {
+        "region": "norte",
+        "population": 4988958,
+        "diagnoses": 466
+      },
+      {
+        "region": "nordeste",
+        "population": 13312253,
+        "diagnoses": 864
+      },
+      {
+        "region": "sudeste",
+        "population": 17307411,
+        "diagnoses": 170
+      },
+      {
+        "region": "sul",
+        "population": 5799507,
+        "diagnoses": 8
+      },
+      {
+        "region": "centro_oeste",
+        "population": 3549116,
+        "diagnoses": 253
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "details": [
+      {
+        "region": "norte",
+        "population": 4959441,
+        "diagnoses": 426
+      },
+      {
+        "region": "nordeste",
+        "population": 13148676,
+        "diagnoses": 891
+      },
+      {
+        "region": "sudeste",
+        "population": 17233509,
+        "diagnoses": 142
+      },
+      {
+        "region": "sul",
+        "population": 5781554,
+        "diagnoses": 19
+      },
+      {
+        "region": "centro_oeste",
+        "population": 3556120,
+        "diagnoses": 269
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "details": [
+      {
+        "region": "norte",
+        "population": 4941411,
+        "diagnoses": 492
+      },
+      {
+        "region": "nordeste",
+        "population": 13009585,
+        "diagnoses": 830
+      },
+      {
+        "region": "sudeste",
+        "population": 17205803,
+        "diagnoses": 152
+      },
+      {
+        "region": "sul",
+        "population": 5781910,
+        "diagnoses": 12
+      },
+      {
+        "region": "centro_oeste",
+        "population": 3568681,
+        "diagnoses": 258
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "details": [
+      {
+        "region": "norte",
+        "population": 4925777,
+        "diagnoses": 396
+      },
+      {
+        "region": "nordeste",
+        "population": 12923454,
+        "diagnoses": 771
+      },
+      {
+        "region": "sudeste",
+        "population": 17135785,
+        "diagnoses": 154
+      },
+      {
+        "region": "sul",
+        "population": 5768690,
+        "diagnoses": 17
+      },
+      {
+        "region": "centro_oeste",
+        "population": 3584286,
+        "diagnoses": 260
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "details": [
+      {
+        "region": "norte",
+        "population": 4909660,
+        "diagnoses": 224
+      },
+      {
+        "region": "nordeste",
+        "population": 12746607,
+        "diagnoses": 430
+      },
+      {
+        "region": "sudeste",
+        "population": 17155622,
+        "diagnoses": 86
+      },
+      {
+        "region": "sul",
+        "population": 5783794,
+        "diagnoses": 11
+      },
+      {
+        "region": "centro_oeste",
+        "population": 3590081,
+        "diagnoses": 142
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "details": [
+      {
+        "region": "norte",
+        "population": 4888588,
+        "diagnoses": 199
+      },
+      {
+        "region": "nordeste",
+        "population": 12618388,
+        "diagnoses": 358
+      },
+      {
+        "region": "sudeste",
+        "population": 17144750,
+        "diagnoses": 103
+      },
+      {
+        "region": "sul",
+        "population": 5788065,
+        "diagnoses": 10
+      },
+      {
+        "region": "centro_oeste",
+        "population": 3600000,
+        "diagnoses": 116
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "details": [
+      {
+        "region": "norte",
+        "population": 4872405,
+        "diagnoses": 177
+      },
+      {
+        "region": "nordeste",
+        "population": 12576616,
+        "diagnoses": 440
+      },
+      {
+        "region": "sudeste",
+        "population": 17087994,
+        "diagnoses": 94
+      },
+      {
+        "region": "sul",
+        "population": 5768904,
+        "diagnoses": 12
+      },
+      {
+        "region": "centro_oeste",
+        "population": 3588082,
+        "diagnoses": 119
+      }
+    ]
+  }
+]

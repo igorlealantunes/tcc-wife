@@ -1,0 +1,72 @@
+[
+  {
+    "ano": 2013,
+    "menor_de_15_anos": 2462,
+    "15_a_29_anos": 5469,
+    "30_a_59_anos": 17023,
+    "60_anos_ou_mais": 6975
+  },
+  {
+    "ano": 2014,
+    "menor_de_15_anos": 2455,
+    "15_a_29_anos": 5387,
+    "30_a_59_anos": 17350,
+    "60_anos_ou_mais": 7001
+  },
+  {
+    "ano": 2015,
+    "menor_de_15_anos": 2193,
+    "15_a_29_anos": 4662,
+    "30_a_59_anos": 15916,
+    "60_anos_ou_mais": 6769
+  },
+  {
+    "ano": 2016,
+    "menor_de_15_anos": 1761,
+    "15_a_29_anos": 4070,
+    "30_a_59_anos": 14068,
+    "60_anos_ou_mais": 6053
+  },
+  {
+    "ano": 2017,
+    "menor_de_15_anos": 1747,
+    "15_a_29_anos": 4142,
+    "30_a_59_anos": 14811,
+    "60_anos_ou_mais": 6768
+  },
+  {
+    "ano": 2018,
+    "menor_de_15_anos": 1744,
+    "15_a_29_anos": 4286,
+    "30_a_59_anos": 16098,
+    "60_anos_ou_mais": 7079
+  },
+  {
+    "ano": 2019,
+    "menor_de_15_anos": 1598,
+    "15_a_29_anos": 4133,
+    "30_a_59_anos": 15670,
+    "60_anos_ou_mais": 7155
+  },
+  {
+    "ano": 2020,
+    "menor_de_15_anos": 893,
+    "15_a_29_anos": 2674,
+    "30_a_59_anos": 9772,
+    "60_anos_ou_mais": 4968
+  },
+  {
+    "ano": 2021,
+    "menor_de_15_anos": 786,
+    "15_a_29_anos": 2487,
+    "30_a_59_anos": 9985,
+    "60_anos_ou_mais": 5447
+  },
+  {
+    "ano": 2022,
+    "menor_de_15_anos": 842,
+    "15_a_29_anos": 2573,
+    "30_a_59_anos": 10325,
+    "60_anos_ou_mais": 5710
+  }
+]

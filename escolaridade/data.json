@@ -1,0 +1,92 @@
+[
+  {
+    "ano_diagnostico": 2013,
+    "analfabeto": 3020,
+    "fundamental_completo_e_incompleto": 16553,
+    "medio_completo_e_incompleto": 5310,
+    "superior_completo_e_incompleto": 1180,
+    "ign_branco": 5565,
+    "nao_se_aplica": 301
+  },
+  {
+    "ano_diagnostico": 2014,
+    "analfabeto": 3102,
+    "fundamental_completo_e_incompleto": 16458,
+    "medio_completo_e_incompleto": 5784,
+    "superior_completo_e_incompleto": 1222,
+    "ign_branco": 5364,
+    "nao_se_aplica": 264
+  },
+  {
+    "ano_diagnostico": 2015,
+    "analfabeto": 2878,
+    "fundamental_completo_e_incompleto": 14879,
+    "medio_completo_e_incompleto": 5233,
+    "superior_completo_e_incompleto": 1266,
+    "ign_branco": 5046,
+    "nao_se_aplica": 238
+  },
+  {
+    "ano_diagnostico": 2016,
+    "analfabeto": 2391,
+    "fundamental_completo_e_incompleto": 12635,
+    "medio_completo_e_incompleto": 4973,
+    "superior_completo_e_incompleto": 1234,
+    "ign_branco": 4489,
+    "nao_se_aplica": 231
+  },
+  {
+    "ano_diagnostico": 2017,
+    "analfabeto": 2522,
+    "fundamental_completo_e_incompleto": 13068,
+    "medio_completo_e_incompleto": 5312,
+    "superior_completo_e_incompleto": 1338,
+    "ign_branco": 5020,
+    "nao_se_aplica": 212
+  },
+  {
+    "ano_diagnostico": 2018,
+    "analfabeto": 2455,
+    "fundamental_completo_e_incompleto": 13917,
+    "medio_completo_e_incompleto": 5975,
+    "superior_completo_e_incompleto": 1599,
+    "ign_branco": 5066,
+    "nao_se_aplica": 195
+  },
+  {
+    "ano_diagnostico": 2019,
+    "analfabeto": 2341,
+    "fundamental_completo_e_incompleto": 13363,
+    "medio_completo_e_incompleto": 6017,
+    "superior_completo_e_incompleto": 1698,
+    "ign_branco": 4967,
+    "nao_se_aplica": 171
+  },
+  {
+    "ano_diagnostico": 2020,
+    "analfabeto": 1387,
+    "fundamental_completo_e_incompleto": 7880,
+    "medio_completo_e_incompleto": 3888,
+    "superior_completo_e_incompleto": 1155,
+    "ign_branco": 3879,
+    "nao_se_aplica": 118
+  },
+  {
+    "ano_diagnostico": 2021,
+    "analfabeto": 1357,
+    "fundamental_completo_e_incompleto": 7890,
+    "medio_completo_e_incompleto": 3800,
+    "superior_completo_e_incompleto": 1190,
+    "ign_branco": 4373,
+    "nao_se_aplica": 95
+  },
+  {
+    "ano_diagnostico": 2022,
+    "analfabeto": 1353,
+    "fundamental_completo_e_incompleto": 8051,
+    "medio_completo_e_incompleto": 4142,
+    "superior_completo_e_incompleto": 1201,
+    "ign_branco": 4618,
+    "nao_se_aplica": 85
+  }
+]
